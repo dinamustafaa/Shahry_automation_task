@@ -1,0 +1,9 @@
+{
+  "standardUserName": "standard_user",
+  "lockedOutUserName": "standard_user",
+  "problemUserName": "standard_user",
+  "performanceGlitchUserName": "standard_user",
+  "errorUserName": "standard_user",
+  "visualUserName": "standard_user",
+  "password": "secret_sauce"
+}
