@@ -1,3 +1,7 @@
+# There is a bug report link 
+
+https://docs.google.com/spreadsheets/d/1O2rLdyhTDgWhZKBENs88-SuUYV5TEn0E/edit?usp=sharing&ouid=109478527178115818879&rtpof=true&sd=true
+
 # Running the Cypress Tests
 
 This README describes how to set up and execute the Cypress tests for this project.
